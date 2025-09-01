@@ -18,7 +18,7 @@
 ## Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-51D1F6?style=for-the-badge&logo=visual-studio-code&logoColor=51D1F6&labelColor=51D1F6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-51D1F6?style=for-the-badge&logo=github&labelColor=51D1F6)&nbsp;
-![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-51D1F6?style=for-the-badge&logo=github&labelColor=51D1F6)&nbsp;
+![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-51D1F6?style=for-the-badge&logo=codeblockslogoColor=51D1F6&labelColor=51D1F6)&nbsp;
 
 ---
 
