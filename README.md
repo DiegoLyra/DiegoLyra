@@ -13,6 +13,9 @@
   <a href="https://devdocs.io/c/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/>
   </a>
+    <a href="https://www.microsoft.com/sql-server" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/>
+  </a>
 
 
 ## Ferramentas
