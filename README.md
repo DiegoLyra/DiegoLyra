@@ -16,6 +16,8 @@
     <a href="https://www.microsoft.com/sql-server" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/>
   </a>
+    <img src="https://skillicons.dev/icons?i=java" widht="40" height="40" />
+  </a>
 
 
 ## Ferramentas
@@ -27,5 +29,7 @@
 ---
 
 ## Estatísticas
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DiegoLyra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DiegoLyra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DiegoLyra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/DiegoLyra/github-readme-stats#gh-light-mode-only) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoLyra&layout=compact)
+<div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoLyra&show_icons=true&title_color=51D1F6&text_color=51D1F65&icon_color=51D1F6&bg_color=FFFFFF&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=DiegoLyra&show_icons=true&locale=en&layout=compact&theme=dark" />
+</a>
