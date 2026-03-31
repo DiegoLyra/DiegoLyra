@@ -30,6 +30,6 @@
 
 ## Estatísticas
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoLyra&show_icons=true&title_color=51D1F6&text_color=51D1F65&icon_color=51D1F6&bg_color=FFFFFF&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoLyra&show_icons=true&title_color=51D1F6&text_color=51D1F6&icon_color=51D1F6&bg_color=000001&hide_border=true" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=DiegoLyra&show_icons=true&locale=en&layout=compact&theme=dark" />
 </a>
