@@ -6,19 +6,12 @@
 
 ## Linguagens e Tecnologias
 
-<div align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://devdocs.io/c/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/>
-  </a>
-    <a href="https://www.microsoft.com/sql-server" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/>
-  </a>
-    <img src="https://skillicons.dev/icons?i=java" widht="40" height="40" />
-  </a>
-
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" width="40"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40"/>
+</p>
 
 ## Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-51D1F6?style=for-the-badge&logo=visual-studio-code&logoColor=51D1F6&labelColor=51D1F6)&nbsp;
