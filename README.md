@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Diego+Lyra;Sou+estudante+de+sistemas+de+informação)](https://git.io/typing-svg) 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiegoLyra&theme=transparent&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=58A6FF&Fire=58A6FF&border=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&currStreakLabel=58A6FF&dates=58A6FF&stroke=58A6FF)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DiegoLyra&theme=transparent&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=58A6FF&fire=58A6FF&border=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&currStreakLabel=58A6FF&dates=58A6FF&stroke=58A6FF" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
@@ -14,12 +17,14 @@
 </p>
 
 ## Ferramentas
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-58A6FF?style=for-the-badge&logo=visual-studio-code&logoColor=58A6FF&labelColor=58A6FF)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-58A6FF?style=for-the-badge&logo=github&labelColor=58A6FF)&nbsp;
-![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-58A6FF?style=for-the-badge&logo=codeblockslogoColor=51D1F6&labelColor=51D1F6)&nbsp;
-![OutSystems](https://img.shields.io/badge/-OutSystems-58A6FF?style=for-the-badge&logo=outsystemslogoColor=51D1F6&labelColor=51D1F6)&nbsp;
-![Mendix](https://img.shields.io/badge/-Mendix-58A6FF?style=for-the-badge&logo=mendixlogoColor=51D1F6&labelColor=51D1F6)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-58A6FF?style=for-the-badge&logo=wordpresslogoColor=51D1F6&labelColor=51D1F6)&nbsp;
+<p align="center">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-58A6FF?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF&labelColor=58A6FF" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/-GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=58A6FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-CodeBlocks-58A6FF?style=for-the-badge&logo=codeblocks&logoColor=FFFFFF&labelColor=58A6FF" alt="CodeBlocks" />
+  <img src="https://img.shields.io/badge/-OutSystems-58A6FF?style=for-the-badge&logo=outsystems&logoColor=FFFFFF&labelColor=58A6FF" alt="OutSystems" />
+  <img src="https://img.shields.io/badge/-Mendix-58A6FF?style=for-the-badge&logo=mendix&logoColor=FFFFFF&labelColor=58A6FF" alt="Mendix" />
+  <img src="https://img.shields.io/badge/-WordPress-58A6FF?style=for-the-badge&logo=wordpress&logoColor=FFFFFF&labelColor=58A6FF" alt="WordPress" />
+</p>
 
 ---
 
