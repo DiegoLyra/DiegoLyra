@@ -29,9 +29,11 @@
 ---
 
 ## Estatísticas
+</div>
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoLyra&show_icons=true&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF&bg_color=000001&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=DiegoLyra&layout=compact&bg_color=000000&title_color=58A6FF&text_color=79C0FF&icon_color=1F6FEB&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DiegoLyra&show_icons=true&title_color=58A6FF&text_color=58A6FF&icon_color=58A6FF&bg_color=00000000&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=DiegoLyra&layout=compact&bg_color=00000000&title_color=58A6FF&text_color=79C0FF&icon_color=1F6FEB&hide_border=true" />
 </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoLyra&bg_color=000000&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=0D419D&title_color=58A6FF&radius=16&hide_border=true" height="300" alt="activity graph" />
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoLyra&bg_color=00000000&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=0D419D&title_color=58A6FF&radius=16&hide_border=true"
+    alt="activity graph" />
 </div>
