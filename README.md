@@ -37,3 +37,19 @@
   <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoLyra&bg_color=00000000&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=0D419D&title_color=58A6FF&radius=16&hide_border=true"
     alt="activity graph" />
 </div>
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/diego-lyra-665610384/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Diego%20Lyra-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/3ric_felix/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@diiegollyra-58A6FF?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
