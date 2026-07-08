@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Diego+Lyra;Sou+estudante+de+sistemas+de+informação)](https://git.io/typing-svg) 
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=DiegoLyra&theme=transparent&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900&ring=58A6FF&fire=58A6FF&border=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&currStreakLabel=58A6FF&dates=58A6FF&stroke=58A6FF" alt="GitHub Streak" />
