@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Diego%20Lyra-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/3ric_felix/" target="_blank">
+<a href="https://www.instagram.com/diiegollyra/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-@diiegollyra-58A6FF?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
