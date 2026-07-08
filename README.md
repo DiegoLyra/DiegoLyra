@@ -18,9 +18,12 @@
 </p>
 
 ## Ferramentas
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-58A6FF?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF&labelColor=58A6FF" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/-Git-58A6FF?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=58A6FF" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=58A6FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Apache%20Maven-58A6FF?style=for-the-badge&logo=apachemaven&logoColor=FFFFFF&labelColor=58A6FF" alt="Apache Maven" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-58A6FF?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=58A6FF" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/-CodeBlocks-58A6FF?style=for-the-badge&logo=codeblocks&logoColor=FFFFFF&labelColor=58A6FF" alt="CodeBlocks" />
   <img src="https://img.shields.io/badge/-OutSystems-58A6FF?style=for-the-badge&logo=outsystems&logoColor=FFFFFF&labelColor=58A6FF" alt="OutSystems" />
   <img src="https://img.shields.io/badge/-Mendix-58A6FF?style=for-the-badge&logo=mendix&logoColor=FFFFFF&labelColor=58A6FF" alt="Mendix" />
