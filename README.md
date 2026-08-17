@@ -7,7 +7,7 @@
   />
 </p>
 
----
+----
 
 ## Linguagens e Tecnologias
 
