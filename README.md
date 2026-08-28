@@ -48,13 +48,9 @@
   />
 </p>
 
-<p align="center">
-  <img
-    height="300"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoLyra&bg_color=00000000&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=0D419D&title_color=58A6FF&radius=16&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=DiegoLyra&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
