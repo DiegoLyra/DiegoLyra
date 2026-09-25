@@ -48,10 +48,6 @@
   />
 </p>
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=DiegoLyra&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ## Contato
