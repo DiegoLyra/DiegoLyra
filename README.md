@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v2.png" width="40"/>
-  <img src="https://img.icons8.com/color/49/000000/c-programming.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" width="40"/>
   <img src="https://skillicons.dev/icons?i=java" width="40"/>
 </p>
